@@ -1,4 +1,4 @@
-# rfm_analysis_for_e_commerce_data
+# rfm_analysis_for_e_commerce_data_on_SQL
 Here is a RFM analysis for E-Commerce Data which is from kaggle.com
 
 RFM, also known as RFM analysis, is a type of customer segmentation and behavioral targeting used to help businesses rank and segment customers based on the recency, frequency, and monetary value of a transaction. RFM marketing can help marketers and small business owners determine their target audience to use their budget most effectively.
